@@ -2,11 +2,11 @@
 main:
   - title: "About me"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
- - title: "Packages and data"
-   url: https://mmistakes.github.io/minimal-mistakes/about/
- - title: "Data science projects"
+ #- title: "Packages and data"
+ #  url: https://mmistakes.github.io/minimal-mistakes/about/
+ #- title: "Data science projects"
   #   url: /year-archive/
-  - title: "Research projects"
+ # - title: "Research projects"
   #   url: /collection-archive/
-  - title: "Courses"
+ # - title: "Courses"
   #   url: /sitemap/
