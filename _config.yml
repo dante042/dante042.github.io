@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Development Economics, Education &"
+title                    : "DEVELOPMENT ECONOMICS"
 title_separator          : "-"
-subtitle                 : "Data Viz"
+subtitle                 : "ML & Data Visualization"
 name                     : "Dante Sanchez"
 description              : "Ph.D. Candidate Development Economics IHEID"
 url                      : "https://dante042.github.io/Git/"
