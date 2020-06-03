@@ -3,8 +3,7 @@ layout: archive
 permalink: "/research" 
 title: "Research"
 header: 
-
-    imege: "/assets/bg2.png" 
+imege: "/assets/bg2.png" 
 ---
 
 {% include base\_path %} {% include group-by-array collection=site.posts field="tags" %}
