@@ -4,10 +4,6 @@ main:
   - url: /about/
   - title: "Research"
   - url: /research/
-  - title: "Packages and data"
-  - url: /covid/
-  - title: "Data science posts"
-  - url: /year-archive/
  # - title: "Research projects"
   #   url: /collection-archive/
  # - title: "Courses"
