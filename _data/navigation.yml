@@ -4,10 +4,10 @@ main:
   - url: /about/
   - title: "Research"
   - url: /research/
-  #- title: "Packages and data"
- #  url: https://mmistakes.github.io/minimal-mistakes/about/
- #- title: "Data science posts"
-  #   url: /year-archive/
+  - title: "Packages and data"
+  - url: /covid/
+  - title: "Data science posts"
+  - url: /year-archive/
  # - title: "Research projects"
   #   url: /collection-archive/
  # - title: "Courses"
