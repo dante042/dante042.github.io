@@ -1,12 +1,12 @@
 # Site settings
-title:
-email: 
+title: "Dante Gerardo Sanchez Torres"
+email: "dante.sanchez@graduateinstitute.ch" 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: "@dante_gerardo"
-github_username: "https://github.com/dante042"
+github_username: "@dante042"
 
 # Build settings
 markdown: kramdown
